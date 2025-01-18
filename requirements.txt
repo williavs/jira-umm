@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+jira
+python-dotenv
+langchain-openai
+openai
+
+
+
